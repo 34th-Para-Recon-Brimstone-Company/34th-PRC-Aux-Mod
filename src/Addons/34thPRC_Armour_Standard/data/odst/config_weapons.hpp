@@ -1,7 +1,7 @@
 class MA_M56SR_Helmet_White_Visor; // MA_Armor
 class 34thPRC_Armour_Standard_Headgear_ODST_Urban : MA_M56SR_Helmet_White_Visor
 {
-    displayName="[34th] M56SR";
+    displayName="[34th A] M56SR";
     author= "Cappy";
     hiddenSelectionsTextures[]=
     {
@@ -13,7 +13,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Urban : MA_M56SR_Helmet_White_Visor
 class MA_M56R_Vest; // MA_Armor
 class 34thPRC_Armour_Standard_Vest_ODST_Urban: MA_M56R_Vest
 {
-    displayName="[34th] M56R Combat Armour";
+    displayName="[34th A] M56R Combat Armour";
     author= "Cappy"
 	hiddenSelectionsTextures[]=
     {
@@ -33,7 +33,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Urban: MA_M56R_Vest
 class MA_M56R_Medic_Vest; // MA_Armor
 class 34thPRC_Armour_Standard_Vest_ODST_Medic_Urban: MA_M56R_Medic_Vest
 {
-    displayName="[34th] M56R Combat Armour (Medic)";
+    displayName="[34th A] M56R Combat Armour (Medic)";
     author= "Cappy"
 	hiddenSelectionsTextures[]=
     {

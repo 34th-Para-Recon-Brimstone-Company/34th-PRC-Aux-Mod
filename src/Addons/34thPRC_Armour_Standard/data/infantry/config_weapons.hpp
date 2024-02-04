@@ -1,7 +1,7 @@
 class HaloInf_Marine_GRFS_headgear; // Halo_marine_02
 class 34thPRC_Armour_Standard_Headgear_Rifleman_Urban : HaloInf_Marine_GRFS_headgear
 {
-	displayName="[34th] CH252";
+	displayName="[34th A] CH252";
 	author="Cappy";
 	hiddenSelectionsTextures[]=
 	{
@@ -16,7 +16,7 @@ class haloinfmar_U_GRFS_uniform : Uniform_Base // Halo_marine_02
 }
 class 34thPRC_Armour_Standard_Uniform_Rifleman_Urban : haloinfmar_U_GRFS_uniform
 {
-	displayName="[34th] Uniform";
+	displayName="[34th A] Uniform";
 	author="Cappy";
 	hiddenSelectionsTextures[]=
 	{
