@@ -1,3 +1,4 @@
+// Halo Reach ODST Helmets
 class MA_M56SR_Helmet_White_Visor; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor : MA_M56SR_Helmet_White_Visor
 {
@@ -100,6 +101,31 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_MarooonVisor : 34thPRC_ArmourSt
     };
 };
 
+// EOD Helmet
+class MA_M56E_Helmet_White_Visor; // MA_Armor
+class 34thPRC_ArmourStandard_ODST_M56E_Urban_WhiteVisor : MA_M56E_Helmet_White_Visor
+{
+    displayName="[34th] M56E Urban (White Visor)";
+    author= "Cappy";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_EOD_helmet_urban.paa",
+        "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
+    };
+};
+
+class 34thPRC_ArmourStandard_ODST_M56E_Urban_MaroonVisor : MA_M56E_Helmet_White_Visor
+{
+    displayName="[34th] M56E Urban (Maroon Visor)";
+    author= "Cappy";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_EOD_helmet_urban.paa",
+        "34thPRC_ArmourStandard\data\odst\hr_odst_visor_maroon_co.paa"
+    };
+};
+
+// ODST Armour
 class MA_M56R_Vest; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban: MA_M56R_Vest
 {
