@@ -2,6 +2,10 @@ meta:
 - changed-files:
     - any-glob-to-any-file: ['!src/**']
 
+documentation:
+- changed-files:
+    - any-glob-to-any-file: ['doc/**']
+
 "area: config":
 - changed-files:
     - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
