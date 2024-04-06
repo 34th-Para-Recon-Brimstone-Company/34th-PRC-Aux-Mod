@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- Aircrew / Pilot Helmets
 - SPI Armour WIP
 - Mark V B Mjolnir default set
 - Mark V Mjolnir Helmet and Shoulders for Mark V B
