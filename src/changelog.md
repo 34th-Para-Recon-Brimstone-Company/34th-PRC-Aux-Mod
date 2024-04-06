@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - SPI Armour WIP
+- Mark V B Mjolnir default set
+- Mark V Mjolnir Helmet and Shoulders for Mark V B
+- Mjolnir Scout Helmet for Mark V B (Misriah Armory Scout attachment and vest match)
+- WIP Mjolnir ODST Shoulders for Mark V B
 
 ## 0.5.0
 ### Added
