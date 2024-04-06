@@ -1,8 +1,18 @@
 class HaloInf_Marine_GRFS_headgear; // Halo_marine_02
+class HaloInf_Marine_DES_UNSC_NV_headgear; // Halo_marine_02
 class 34thPRC_ArmourStandard_Marines_CH252_Urban : HaloInf_Marine_GRFS_headgear
 {
 	displayName="[34th] CH252 Urban";
 	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor : HaloInf_Marine_DES_UNSC_NV_headgear
+{
+	displayName="[34th] CH252 Urban (No Visor)";
+	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
@@ -17,10 +27,28 @@ class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight : 34thPRC_ArmourStandard_
 		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_light_co.paa"
 	};
 }
+class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
+{
+	displayName="[34th] CH252 Arctic Light (No Visor)";
+	author="TheBrwnKidd & Vazya";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_light_co.paa"
+	};
+}
 class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Arctic Dark";
 	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_dark_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
+{
+	displayName="[34th] CH252 Arctic Dark (No Visor)";
+	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_dark_co.paa"
@@ -35,10 +63,28 @@ class 34thPRC_ArmourStandard_Marines_CH252_AridLight : 34thPRC_ArmourStandard_Ma
 		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_light_co.paa"
 	};
 }
+class 34thPRC_ArmourStandard_Marines_CH252_AridLight_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
+{
+	displayName="[34th] CH252 Arid Light (No Visor)";
+	author="TheBrwnKidd & Vazya";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_light_co.paa"
+	};
+}
 class 34thPRC_ArmourStandard_Marines_CH252_AridDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Arid Dark";
 	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_dark_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_CH252_AridDark_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
+{
+	displayName="[34th] CH252 Arid Dark (No Visor)";
+	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_dark_co.paa"
@@ -53,6 +99,15 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight : 34thPRC_ArmourStandar
 		"34thPRC_ArmourStandard\data\marines\woodland\helmet_woodland_light_co.paa"
 	};
 }
+class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
+{
+	displayName="[34th] CH252 Woodland Light (No Visor)";
+	author="TheBrwnKidd & Vazya";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\woodland\helmet_woodland_light_co.paa"
+	};
+}
 class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Woodland Dark";
@@ -62,10 +117,28 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark : 34thPRC_ArmourStandard
 		"34thPRC_ArmourStandard\data\marines\woodland\helmet_woodland_dark_co.paa"
 	};
 }
+class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
+{
+	displayName="[34th] CH252 Woodland Dark (No Visor)";
+	author="TheBrwnKidd & Vazya";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\woodland\helmet_woodland_dark_co.paa"
+	};
+}
 class 34thPRC_ArmourStandard_Marines_CH252_Tropic : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Woodland Tropic";
 	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\tropic\helmet_tropic_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_CH252_Tropic_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
+{
+	displayName="[34th] CH252 Woodland Tropic (No Visor)";
+	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\tropic\helmet_tropic_co.paa"

@@ -40,4 +40,9 @@ class CfgMarkers
         name="[34th] Mammon 1-2";
         icon="34thPRC_Markers\data\mammon_1-2.paa";
     };
+    class 34thPRC_Markers_SatanActual : 34thPRC_Markers_CompanyEmblem
+    {
+        name="[34th] Satan 2-Actual";
+        icon="34thPRC_Markers\data\satan_2-a.paa";
+    };
 };
