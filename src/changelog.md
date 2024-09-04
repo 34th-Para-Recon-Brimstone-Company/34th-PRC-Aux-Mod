@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- Ace Arsenal Extended support for various items
+ - Marine and ODST helmets
+ - Marine and ODST uniforms
+ - ODST vests
+ - ODST backpacks
+
+### Updated
+- Fix a bug with the BR55 not showing it's muzzle attachments
+- Marine's urban BDU texture
+- Marine's tropic uniform
+
+### Removed
+- Old AAX startup error message patch
+
+## 0.11.0
+### Added
 - New marine armour
 - New attachment support for various UNSC Foundries weapons (Thanks SEC for providing configs for almost all of these)
  - BR55 family
@@ -25,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 - Invisible MkVb shoulders now use hidden selection stuff instead of a bad p3d
 - SEC Guest Pack: Less protection
+- Marked old marine uniforms/helmets/backpacks with `[34th old]` tag
 
 ## 0.10.0
 ### Added

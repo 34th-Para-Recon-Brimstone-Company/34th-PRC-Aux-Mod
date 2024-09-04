@@ -2,7 +2,7 @@ class HaloInf_Marine_GRFS_headgear; // Halo_marine_02
 class HaloInf_Marine_DES_UNSC_NV_headgear; // Halo_marine_02
 class 34thPRC_ArmourStandard_Marines_CH252_Urban : HaloInf_Marine_GRFS_headgear
 {
-	displayName="[34th] CH252 Urban";
+	displayName="[34th old] CH252 Urban";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -11,7 +11,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Urban : HaloInf_Marine_GRFS_headgear
 }
 class 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor : HaloInf_Marine_DES_UNSC_NV_headgear
 {
-	displayName="[34th] CH252 Urban (No Visor)";
+	displayName="[34th old] CH252 Urban (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -20,7 +20,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor : HaloInf_Marine_DES_UN
 }
 class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Arctic Light";
+	displayName="[34th old] CH252 Arctic Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -29,7 +29,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight : 34thPRC_ArmourStandard_
 }
 class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Arctic Light (No Visor)";
+	displayName="[34th old] CH252 Arctic Light (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -38,7 +38,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight_NoVisor : 34thPRC_ArmourS
 }
 class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Arctic Dark";
+	displayName="[34th old] CH252 Arctic Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -47,7 +47,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark : 34thPRC_ArmourStandard_M
 }
 class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Arctic Dark (No Visor)";
+	displayName="[34th old] CH252 Arctic Dark (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -56,7 +56,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark_NoVisor : 34thPRC_ArmourSt
 }
 class 34thPRC_ArmourStandard_Marines_CH252_AridLight : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Arid Light";
+	displayName="[34th old] CH252 Arid Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -65,7 +65,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_AridLight : 34thPRC_ArmourStandard_Ma
 }
 class 34thPRC_ArmourStandard_Marines_CH252_AridLight_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Arid Light (No Visor)";
+	displayName="[34th old] CH252 Arid Light (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -74,7 +74,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_AridLight_NoVisor : 34thPRC_ArmourSta
 }
 class 34thPRC_ArmourStandard_Marines_CH252_AridDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Arid Dark";
+	displayName="[34th old] CH252 Arid Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -83,7 +83,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_AridDark : 34thPRC_ArmourStandard_Mar
 }
 class 34thPRC_ArmourStandard_Marines_CH252_AridDark_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Arid Dark (No Visor)";
+	displayName="[34th old] CH252 Arid Dark (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -92,7 +92,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_AridDark_NoVisor : 34thPRC_ArmourStan
 }
 class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Woodland Light";
+	displayName="[34th old] CH252 Woodland Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -101,7 +101,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight : 34thPRC_ArmourStandar
 }
 class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Woodland Light (No Visor)";
+	displayName="[34th old] CH252 Woodland Light (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -110,7 +110,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight_NoVisor : 34thPRC_Armou
 }
 class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Woodland Dark";
+	displayName="[34th old] CH252 Woodland Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -119,7 +119,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark : 34thPRC_ArmourStandard
 }
 class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Woodland Dark (No Visor)";
+	displayName="[34th old] CH252 Woodland Dark (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -128,7 +128,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark_NoVisor : 34thPRC_Armour
 }
 class 34thPRC_ArmourStandard_Marines_CH252_Tropic : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Tropic";
+	displayName="[34th old] CH252 Tropic";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -137,7 +137,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Tropic : 34thPRC_ArmourStandard_Marin
 }
 class 34thPRC_ArmourStandard_Marines_CH252_Tropic_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Tropic (No Visor)";
+	displayName="[34th old] CH252 Tropic (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{
@@ -152,7 +152,7 @@ class haloinfmar_U_GRFS_uniform : Uniform_Base // Halo_marine_02
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium : haloinfmar_U_GRFS_uniform
 {
-	displayName="[34th] Uniform Urban Blue Medium";
+	displayName="[34th old] Uniform Urban Blue Medium";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -173,7 +173,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium : haloinfmar_U_GRFS
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Urban Blue Light";
+	displayName="[34th old] Uniform Urban Blue Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -194,7 +194,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueLight : 34thPRC_ArmourStan
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Urban Blue Dark";
+	displayName="[34th old] Uniform Urban Blue Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -215,7 +215,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueDark : 34thPRC_ArmourStand
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Urban Red Light";
+	displayName="[34th old] Uniform Urban Red Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -236,7 +236,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedLight : 34thPRC_ArmourStand
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Urban Red Dark";
+	displayName="[34th old] Uniform Urban Red Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -257,7 +257,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedDark : 34thPRC_ArmourStanda
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_ArcticLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Arctic Light";
+	displayName="[34th old] Uniform Arctic Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -278,7 +278,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_ArcticLight : 34thPRC_ArmourStandar
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_ArcticDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Arctic Dark";
+	displayName="[34th old] Uniform Arctic Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -299,7 +299,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_ArcticDark : 34thPRC_ArmourStandard
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_AridLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Arid Light";
+	displayName="[34th old] Uniform Arid Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -320,7 +320,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_AridLight : 34thPRC_ArmourStandard_
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_AridDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Arid Dark";
+	displayName="[34th old] Uniform Arid Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -341,7 +341,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_AridDark : 34thPRC_ArmourStandard_M
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_WoodlandLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Woodland Light";
+	displayName="[34th old] Uniform Woodland Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -362,7 +362,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_WoodlandLight : 34thPRC_ArmourStand
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_WoodlandDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Woodland Dark";
+	displayName="[34th old] Uniform Woodland Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -383,7 +383,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_WoodlandDark : 34thPRC_ArmourStanda
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_Tropic : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Tropic";
+	displayName="[34th old] Uniform Tropic";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
