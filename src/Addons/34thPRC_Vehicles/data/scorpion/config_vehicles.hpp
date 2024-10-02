@@ -7,7 +7,6 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 	editorSubcategory="34thPRC_FactionBrimstone_EditorSubCategory_Tanks";
 	crew="OPTRE_UNSC_Army_Soldier_Crewman_WDL";
 
-	/*
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Vehicles\data\scorpion\M808B_Hull_co.paa",
@@ -20,7 +19,6 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 		"34thPRC_Vehicles\data\scorpion\M808B_Track_Int_co.paa"
 	};
 	textureList[] = {};
-	*/
 
 	damageResistance=0.04; // 0.02
 	crewCrashProtection=0.44999999; // same a springbok
