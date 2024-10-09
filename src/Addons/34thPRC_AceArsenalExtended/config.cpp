@@ -90,7 +90,7 @@ class XtdGearModels
 		{
 			label = "[34thPRC] ODST Armors";
 			author = "34th PRC Modding Team, J. Koko";
-			options[] = {"camo", "medic"};
+			options[] = {"camo", "medic", "cqb"};
 			class camo
 			{
 				alwaysSelectable = 1;
@@ -129,6 +129,20 @@ class XtdGearModels
 				class isMedic
 				{
 					label = "Medic";
+				};
+			};
+			class cqb
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"standard", "isCQB"};
+				class standard
+				{
+					label = "Standard";
+				};
+				class isCQB
+				{
+					label = "CQB Urban";
 				};
 			};
 		};
@@ -679,61 +693,79 @@ class XtdGearInfos
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "standard";
+			cqb = "standard";		
 		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Arid
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arid";
 			medic = "standard";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Arctic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arctic";
 			medic = "standard";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Woodland
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "woodland";
 			medic = "standard";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Tropic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "tropic";
 			medic = "standard";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "isMedic";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arctic";
 			medic = "isMedic";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arid";
 			medic = "isMedic";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "tropic";
 			medic = "isMedic";
+			cqb = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "woodland";
 			medic = "isMedic";
+			cqb = "standard";
 		}
+		class 34thPRC_ArmourStandard_ODST_M56R_CQB
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
+			camo = "urban";
+			medic = "standard";
+			cqb = "isCQB";
+		}
+		
 
 		// MA ODST Uniforms
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed

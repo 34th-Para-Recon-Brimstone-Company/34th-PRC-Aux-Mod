@@ -5,7 +5,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban : MA_M56S_Rucksack
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa";
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -15,7 +15,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic : 34thPRC_ArmourStandard_ODST_M56S
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_arctic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_arctic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -25,7 +25,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid : 34thPRC_ArmourStandard_ODST_M56S_U
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_arid_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_arid_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -35,7 +35,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic : 34thPRC_ArmourStandard_ODST_M56S
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_tropic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_tropic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -45,7 +45,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland : 34thPRC_ArmourStandard_ODST_M5
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_woodland_co.paa";
+        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_woodland_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -57,7 +57,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase : MA_M56S_Rucksack
     ace_gunbag=1;
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa";
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -67,7 +67,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Guncase : 34thPRC_ArmourStandard_O
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_arctic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_arctic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -77,7 +77,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid_Guncase : 34thPRC_ArmourStandard_ODS
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_arid_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_arid_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -87,7 +87,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Guncase : 34thPRC_ArmourStandard_O
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_tropic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_tropic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -97,7 +97,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Guncase : 34thPRC_ArmourStandard
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_woodland_co.paa";
+        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_woodland_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -109,7 +109,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic : MA_M56S_Rucksack_Medic
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_medic_urban_co.paa";
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_medic_urban_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -119,7 +119,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Medic : 34thPRC_ArmourStandard_ODS
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_medic_arctic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_medic_arctic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -129,7 +129,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid_Medic : 34thPRC_ArmourStandard_ODST_
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_medic_arid_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_medic_arid_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -139,7 +139,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Medic : 34thPRC_ArmourStandard_ODS
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_medic_tropic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_medic_tropic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -149,7 +149,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Medic : 34thPRC_ArmourStandard_O
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_medic_woodland_co.paa";
+        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_medic_woodland_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -161,7 +161,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio : MA_M56S_Rucksack_Radio
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
-        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa";
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -171,7 +171,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Radio : 34thPRC_ArmourStandard_ODS
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
-        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_arctic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_arctic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -181,7 +181,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid_Radio : 34thPRC_ArmourStandard_ODST_
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
-        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_arid_co.paa";
+        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_arid_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -191,7 +191,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Radio : 34thPRC_ArmourStandard_ODS
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
-        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_tropic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_tropic_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
@@ -201,7 +201,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Radio : 34thPRC_ArmourStandard_O
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
-        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_woodland_co.paa";
+        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_woodland_co.paa",
         "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
