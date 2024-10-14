@@ -273,11 +273,11 @@ class MA_MKVB_Armor; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_Armor: MA_MKVB_Armor
 {
     displayName="[34th] Mjolnir MKV[B] Armor";
-    author= "Vazya"
+    author= "Vazya";
 	hiddenSelectionsTextures[]=
     {
 		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Upper.paa",    //camo4 (Upper Armor)
-		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa",    //camo5 (Lower Armor)
+		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa"    //camo5 (Lower Armor)
     };
 };
 
@@ -288,7 +288,7 @@ class 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG: MA_EOD_CBRN_Attachment_NVG
 	displayName="[34th] Mjolnir MkV[B] EOD CBRN Module";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa";
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa"
 	};
 	visionMode[]=
 	{

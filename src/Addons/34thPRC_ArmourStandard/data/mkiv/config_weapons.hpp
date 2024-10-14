@@ -13,7 +13,7 @@ class MA_MKIV_Armor; // MA_Armor
 class 34thPRC_ArmourStandard_MKIV_Armor: MA_MKIV_Armor
 {
     displayName="[34th] Mjolnir MKIV Armor";
-    author= "Cappy"
+    author= "Cappy";
 	hiddenSelectionsTextures[]=
     {
             "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Upper.paa",    //camo4 (Upper Armor)

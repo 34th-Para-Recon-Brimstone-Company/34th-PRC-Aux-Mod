@@ -90,11 +90,7 @@ class XtdGearModels
 		{
 			label = "[34thPRC] ODST Armors";
 			author = "34th PRC Modding Team, J. Koko";
-<<<<<<< Updated upstream
-			options[] = {"camo", "medic"};
-=======
-			options[] = {"camo", "medic", "cqb", "radio"};
->>>>>>> Stashed changes
+			options[] = {"camo", "medic", "shoulders"};
 			class camo
 			{
 				alwaysSelectable = 1;
@@ -135,37 +131,23 @@ class XtdGearModels
 					label = "Medic";
 				};
 			};
-<<<<<<< Updated upstream
-=======
+		class shoulders
+		{
+			alwaysSelectable = 1;
+			changeingame = 0;
+			values[] = {"standard", "cqb", "radio"};
+			class standard
+			{
+				label = "Standard";
+			};
 			class cqb
 			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "isCQB"};
-				class standard
-				{
-					label = "Standard";
-				};
-				class isCQB
-				{
-					label = "CQB Urban";
-				};
+				label = "CQB";
 			};
-			class radio
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "isRadio"};
-				class standard
-				{
-					label = "Standard";
-				};
-				class isRadio
+				class radio
 				{
 					label = "Radio (Black)";
 				};
-			};
->>>>>>> Stashed changes
 		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		{
@@ -714,80 +696,85 @@ class XtdGearInfos
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "standard";
+			shoulders = "standard";
 		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Arid
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arid";
 			medic = "standard";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Arctic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arctic";
 			medic = "standard";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Woodland
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "woodland";
 			medic = "standard";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Tropic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "tropic";
 			medic = "standard";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "isMedic";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arctic";
 			medic = "isMedic";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arid";
 			medic = "isMedic";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "tropic";
 			medic = "isMedic";
+			shoulders = "standard";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "woodland";
 			medic = "isMedic";
+			shoulders = "standard";
 		}
-<<<<<<< Updated upstream
-=======
-		class 34thPRC_ArmourStandard_ODST_M56R_CQB
+		class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "standard";
-			cqb = "isCQB";
+			shoulders = "cqb";
 		}
 		class 34thPRC_ArmourStandard_ODST_M56R_Radio
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "standard";
-			cqb = "standard";
-			radio = "isRadio";
+			shoulders = "radio";
 		}
->>>>>>> Stashed changes
-
 		// MA ODST Uniforms
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		{
