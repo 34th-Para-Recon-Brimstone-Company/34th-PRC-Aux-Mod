@@ -18,7 +18,102 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 		"34thPRC_Vehicles\data\scorpion\woodland\M808B_Details_EXT_2_co.paa",
 		"DMNS\DMNS_Armour\M808B_Scorpion\data\M808B_Track_Int_co.paa"
 	};
-	textureList[] = {};
+	textureList[] =
+	{
+		"woodland",
+		1,
+		"urban",
+		0,
+		"arid",
+		0,
+		"arctic",
+		0,
+		"tropic",
+		0,
+	};
+	class textureSources
+	{
+		class woodland
+		{
+			displayName = "Woodland";
+			author = "Harry";
+			textures[] =
+			{
+				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Hull_co.paa",
+				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Turret_co.paa",
+				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Track_Housing_Front_co.paa",
+				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Track_Housing_Rear_co.paa",
+				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Commander_co.paa",
+				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Details_EXT_co.paa",
+				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Details_EXT_2_co.paa",
+				"DMNS\DMNS_Armour\M808B_Scorpion\data\M808B_Track_Int_co.paa"
+			};
+		};
+		class urban
+		{
+			displayName = "Urban";
+			author = "Harry";
+			textures[] =
+			{
+				"34thPRC_Vehicles\data\scorpion\urban\M808B_Hull_co.paa",
+				"34thPRC_Vehicles\data\scorpion\urban\M808B_Turret_co.paa",
+				"34thPRC_Vehicles\data\scorpion\urban\M808B_Track_Housing_Front_co.paa",
+				"34thPRC_Vehicles\data\scorpion\urban\M808B_Track_Housing_Rear_co.paa",
+				"34thPRC_Vehicles\data\scorpion\urban\M808B_Commander_co.paa",
+				"34thPRC_Vehicles\data\scorpion\urban\M808B_Details_EXT_co.paa",
+				"34thPRC_Vehicles\data\scorpion\urban\M808B_Details_EXT_2_co.paa",
+				"DMNS\DMNS_Armour\M808B_Scorpion\data\M808B_Track_Int_co.paa"
+			};
+		};
+		class arid
+		{
+			displayName = "Arid";
+			author = "Harry";
+			textures[] =
+			{
+				"34thPRC_Vehicles\data\scorpion\arid\M808B_Hull_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arid\M808B_Turret_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arid\M808B_Track_Housing_Front_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arid\M808B_Track_Housing_Rear_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arid\M808B_Commander_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arid\M808B_Details_EXT_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arid\M808B_Details_EXT_2_co.paa",
+				"DMNS\DMNS_Armour\M808B_Scorpion\data\M808B_Track_Int_co.paa"
+			};
+		};
+		class arctic
+		{
+			displayName = "Arctic";
+			author = "Harry";
+			textures[] =
+			{
+				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Hull_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Turret_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Track_Housing_Front_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Track_Housing_Rear_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Commander_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Details_EXT_co.paa",
+				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Details_EXT_2_co.paa",
+				"DMNS\DMNS_Armour\M808B_Scorpion\data\M808B_Track_Int_co.paa"
+			};
+		};
+		class tropic
+		{
+			displayName = "Tropic";
+			author = "Harry";
+			textures[] =
+			{
+				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Hull_co.paa",
+				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Turret_co.paa",
+				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Track_Housing_Front_co.paa",
+				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Track_Housing_Rear_co.paa",
+				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Commander_co.paa",
+				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Details_EXT_co.paa",
+				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Details_EXT_2_co.paa",
+				"DMNS\DMNS_Armour\M808B_Scorpion\data\M808B_Track_Int_co.paa"
+			};
+		};
+	};
 
 	damageResistance=0.04; // 0.02
 	crewCrashProtection=0.44999999; // same a springbok
