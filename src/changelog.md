@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CQB shoulders for ODST vest (urban camo only for now)
 
 ### Updated
-- Scorpion textures added (only green camo for now)
+- Scorpion textures added
 
 ### Removed
 - Old marine armour
