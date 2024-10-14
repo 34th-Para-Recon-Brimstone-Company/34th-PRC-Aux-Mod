@@ -131,23 +131,24 @@ class XtdGearModels
 					label = "Medic";
 				};
 			};
-		class shoulders
-		{
-			alwaysSelectable = 1;
-			changeingame = 0;
-			values[] = {"standard", "cqb", "radio"};
-			class standard
+			class shoulders
 			{
-				label = "Standard";
-			};
-			class cqb
-			{
-				label = "CQB";
-			};
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"standard", "cqb", "radio"};
+				class standard
+				{
+					label = "Standard";
+				};
+				class cqb
+				{
+					label = "CQB";
+				};
 				class radio
 				{
 					label = "Radio (Black)";
 				};
+			};
 		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		{
