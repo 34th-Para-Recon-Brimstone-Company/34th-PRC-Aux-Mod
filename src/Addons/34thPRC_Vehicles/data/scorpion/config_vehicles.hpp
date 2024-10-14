@@ -36,7 +36,7 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 		class woodland
 		{
 			displayName = "Woodland";
-			author = "Harry";
+			author = "Harrison";
 			textures[] =
 			{
 				"34thPRC_Vehicles\data\scorpion\woodland\M808B_Hull_co.paa",
@@ -52,7 +52,7 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 		class urban
 		{
 			displayName = "Urban";
-			author = "Harry";
+			author = "Harrison";
 			textures[] =
 			{
 				"34thPRC_Vehicles\data\scorpion\urban\M808B_Hull_co.paa",
@@ -68,7 +68,7 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 		class arid
 		{
 			displayName = "Arid";
-			author = "Harry";
+			author = "Harrison";
 			textures[] =
 			{
 				"34thPRC_Vehicles\data\scorpion\arid\M808B_Hull_co.paa",
@@ -84,7 +84,7 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 		class arctic
 		{
 			displayName = "Arctic";
-			author = "Harry";
+			author = "Harrison";
 			textures[] =
 			{
 				"34thPRC_Vehicles\data\scorpion\arctic\M808B_Hull_co.paa",
@@ -100,7 +100,7 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 		class tropic
 		{
 			displayName = "Tropic";
-			author = "Harry";
+			author = "Harrison";
 			textures[] =
 			{
 				"34thPRC_Vehicles\data\scorpion\tropic\M808B_Hull_co.paa",
