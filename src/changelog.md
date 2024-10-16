@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 0.16.0
 ### Added
+- Bigger storage for exosuits that we use
 - CQB shoulders for ODST vest (urban camo only for now)
 
 ### Updated
