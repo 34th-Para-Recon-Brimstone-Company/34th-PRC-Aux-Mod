@@ -286,7 +286,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic: 34thPRC_ArmourStandard_OD
 class MA_M56R_CQB_Vest; //MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB : MA_M56R_CQB_Vest
 {
-    displayNAme="[34th] M56R Combat Armour Urban (CQB)";
+    displayName="[34th] M56R Combat Armour Urban (CQB)";
     author="OverYandere";
     hiddenSelectionsTextures[]=
     {
@@ -301,6 +301,25 @@ class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB : MA_M56R_CQB_Vest
             "34thPRC_ArmourStandard\data\odst\urban\34_cqb_urban.paa",  //camo9 (CQB Shoulders)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
+};
+class MA_M56R_Sniper_Vest; //MA_Armor
+class 34thPRC_ArmourStandard_ODST_M56R_Urban_Sniper : MA_M56R_Sniper_Vest
+{
+	displayName="[34th] M56R Combat Armour Urban (Sniper)";
+	author="OverYandere";
+	hiddenSelectionsTextures[]=
+	{
+		"MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
+        "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
+        "MA_Armor\data\Vests\H3_ODST\Addons\Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_upper_urban.paa",    //camo4 (Reach Upper Armor)
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_lower_urban.paa",    //camo5 (Reach Lower Armor)
+        "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
+        "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_sniper_urban.paa", //camo8 (Sniper Shoulders)
+        "MA_Armor\data\Vests\Reach_ODST\Addons\CQB_Shoulders\CQB_co.paa",  //camo9 (CQB Shoulders)
+        "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
+	};
 };
 
 // class U_B_CombatUniform_mcam; // A3_Characters_F - we have this in marines2 now too
