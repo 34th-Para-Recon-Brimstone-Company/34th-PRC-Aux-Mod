@@ -18,6 +18,7 @@ class CfgPatches
 			"ace_grenades", // ACE
 			"ace_huntir", // ACE
 			"19thMD_Vests_Kelp", // UNSC Foundries
+			"PhoenixSystems_Exosuits", // E.P.S.M ExoMod Remastered
 		};
 	};
 };
