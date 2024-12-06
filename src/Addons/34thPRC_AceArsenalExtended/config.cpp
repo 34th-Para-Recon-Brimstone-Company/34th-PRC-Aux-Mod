@@ -6,6 +6,7 @@ class CfgPatches
 		units[] = {};
 		requiredAddons[] = {
 			"34thPRC_ArmourStandard", // 34th PRC Aux Mod
+			"34thPRC_ArmourCustom", // 34th PRC Aux Mod
 			"aceax_gearinfo" // Ace Arsenal Extended
 		};
 		skipWhenMissingDependencies = 1;

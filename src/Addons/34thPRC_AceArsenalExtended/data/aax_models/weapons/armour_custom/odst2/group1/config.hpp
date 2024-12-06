@@ -1,9 +1,23 @@
-//Ma ODST Armor New
-class 34thPRC_ArmourStandard_ODST2_M52_Urban
+//Custom M52 Group 1: Yandere
+class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
-	label = "[34thPRC] ODST Armors";
+	label = "[34thPRC] ODST Custom Armors";
 	author = "34th PRC Modding Team, Over Yandere";
-	options[] = {"camo", "variant"};
+	options[] = {"player", "camo", "variant"};
+	class player
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[]={"yandere"};
+		class yandere
+		{
+			label = "Yandere";
+		};
+		class player2
+		{
+		label = "Player2";
+		};
+	};
 	class camo
 	{
 		alwaysSelectable = 1;
@@ -70,12 +84,27 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 	};
 };
 
-//MA ODST Helmet New
-class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
+
+//Custom ODST Helmets Group 1: Yandere,
+class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 {
-	label = "[34thPRC] ODST CH252D Helmets";
+	label = "[34thPRC] ODST CH252D Custom Helmets";
 	author = "34th PRC Modding Team, Over Yandere";
-	options[] = {"camo", "visor"};
+	options[] = {"player","camo", "visor"};
+	class player
+	{
+		alwaysSelectable= 1;
+		changeingame =0;
+		values[]= {"yandere","player2"};
+		class yandere
+		{
+			label = "Yandere";
+		};
+		class player2
+		{
+			label = "Player2";
+		};
+	};
 	class camo
 	{
 		alwaysSelectable = 1;
@@ -106,7 +135,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"silver", "red", "gold"};
+		values[] = {"silver", "red", "gold", "custom"};
 		class silver
 		{
 			label = "Silver";
@@ -118,6 +147,10 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 		class gold
 		{
 			label = "Gold";
+		};
+			class custom
+		{
+			label = "Custom";
 		};
 	};
 };
