@@ -94,8 +94,6 @@ class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		};
 	};
 };
-
-// MA ODST Helmets
 class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
 	label = "[34thPRC] ODST Helmets";
