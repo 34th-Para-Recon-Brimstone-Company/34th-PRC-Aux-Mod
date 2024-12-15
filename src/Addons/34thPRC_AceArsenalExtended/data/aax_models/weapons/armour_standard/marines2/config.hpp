@@ -72,8 +72,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 		};
 	};
 };
-
-// MA CH252 Helmets
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
 	label = "[34thPRC] CH252 Helmets";
