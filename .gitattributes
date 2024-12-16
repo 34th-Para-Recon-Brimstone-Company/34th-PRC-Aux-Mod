@@ -5,3 +5,6 @@
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+*.hpp text eol=crlf
+*.cpp text eol=crlf
+*.rvmat text eol=crlf
