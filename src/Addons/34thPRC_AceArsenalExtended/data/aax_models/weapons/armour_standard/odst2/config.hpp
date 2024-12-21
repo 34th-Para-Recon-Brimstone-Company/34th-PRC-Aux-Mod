@@ -1,4 +1,3 @@
-//Ma ODST Armor New
 class 34thPRC_ArmourStandard_ODST2_M52_Urban
 {
 	label = "[34thPRC] ODST Armors";
@@ -69,8 +68,6 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 		};
 	};
 };
-
-//MA ODST Helmet New
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
 	label = "[34thPRC] ODST CH252D Helmets";
