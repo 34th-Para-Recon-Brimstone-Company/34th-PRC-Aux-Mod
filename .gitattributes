@@ -8,3 +8,4 @@
 *.hpp text eol=crlf
 *.cpp text eol=crlf
 *.rvmat text eol=crlf
+* -text
