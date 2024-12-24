@@ -1,0 +1,3 @@
+If your custom armor set does not utilize custom textures for the straps or ballistic padding do not create a copy, instead simply inherit from "34thPRC_ArmourStandard\data\marines2\urban"
+
+Likewise if you don't modify the uniform at all there is no need to create a new texture, just inherit from 34thPRC_ArmourStandard.

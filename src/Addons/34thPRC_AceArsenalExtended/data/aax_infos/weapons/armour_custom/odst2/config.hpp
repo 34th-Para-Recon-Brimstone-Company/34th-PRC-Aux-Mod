@@ -1,0 +1,1 @@
+#include "yandere\config.hpp"
