@@ -8,3 +8,4 @@
 #include "ma5b\config_weapons.hpp"
 #include "sidekick\config_weapons.hpp"
 #include "srs99rm\config_weapons.hpp"
+#include "srs99am\config_weapons.hpp"
