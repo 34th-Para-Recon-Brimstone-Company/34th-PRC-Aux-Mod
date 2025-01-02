@@ -10,67 +10,10 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban : 34thPRC_ArmourStandard_EOD_H
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
+		player="cappy";
+		helmet="eod";
 		camo="urban";
-	};
-};
-class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Arid : 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet 'Cappy' Arid";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\arid\eod_helmet_arid.paa",
-		"34thPRC_ArmourCustom\data\odst2\cappy\visor\eod_helmet_visor.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
-		camo="arid";
-	};
-};
-class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Arctic : 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet 'Cappy' Arctic";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\arctic\eod_helmet_arctic.paa",
-		"34thPRC_ArmourCustom\data\odst2\cappy\visor\eod_helmet_visor.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
-		camo="arctic";
-	};
-};
-class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Tropic : 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet 'Cappy' Tropic";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\tropic\eod_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\odst2\cappy\visor\eod_helmet_visor.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
-		camo="tropic";
-	};
-};
-class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Woodland : 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet 'Cappy' Woodland";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\eod_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\odst2\cappy\visor\eod_helmet_visor.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
-		camo="woodland";
+		visor="custom";
 	};
 };
 

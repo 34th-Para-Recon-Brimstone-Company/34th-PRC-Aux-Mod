@@ -1,3 +1,22 @@
+class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Arctic : 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
+{
+	displayName="[34th] EOD Helmet 'Cappy' Arctic";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\cappy\arctic\eod_helmet_arctic.paa",
+		"34thPRC_ArmourCustom\data\odst2\cappy\visor\eod_helmet_visor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
+		player="cappy";
+		helmet="eod";
+		camo="arctic";
+		visor="custom";
+	};
+};
+
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Arctic : 34thPRC_ArmourCustom_ODST2_Cappy_M52_Urban
 {
 	displayName="[34th] M52 Combat Armour 'Cappy' Arctic";

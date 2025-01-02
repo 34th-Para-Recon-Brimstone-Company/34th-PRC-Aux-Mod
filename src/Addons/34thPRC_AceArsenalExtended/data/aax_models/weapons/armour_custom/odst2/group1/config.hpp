@@ -155,18 +155,52 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 	};
 };
 
-//Custom ODST EOD Helmets Group 1: Cappy
+//Custom ODST Specialist Helmets Helmets Group 1: Cappy
 class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 {
-	label="[34thPRC] EOD Helmets Custom";
+	label="[34thPRC] Specialist Helmets Custom";
 	author="34th PRC Modding Team, Over Yandere";
-	options[]= {"camo"};
+	options[]= {"player","helmet","camo","visor"};
+	class player
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		label="Player";
+		values[] = {"cappy", "yandere"};
+		class cappy
+		{
+			label="Cappy";
+		};
+		class yandere
+		{
+			label="Yandere";
+		};
+	};
+	class helmet
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		label="Helmet Type";
+		values[]={"eod","gungnir","jfo"};
+		class eod
+		{
+			label="EOD";
+		};
+		class gungnir
+		{
+			label="Gungnir";
+		};
+		class jfo
+		{
+			label="JFO";
+		};
+	};
 	class camo
 	{
 		alwaysSelectable=1;
 		changeingame=0;
+		label="Camo Variant";
 		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-
 		class urban
 		{
 			label="Urban";
@@ -186,6 +220,21 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		class woodland
 		{
 			label="Woodland";
+		};
+	};
+	class visor
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		label="Visor Variant";
+		values[] = {"default","custom"};
+		class default
+		{
+			label="Default";
+		};
+		class custom
+		{
+			label="Custom";
 		};
 	};
 };

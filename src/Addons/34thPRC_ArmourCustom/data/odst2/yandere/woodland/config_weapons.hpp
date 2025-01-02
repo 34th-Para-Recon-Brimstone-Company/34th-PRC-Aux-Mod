@@ -147,6 +147,26 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland_dp :  34thP
 	};
 };
 
+//JFO Custom
+class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban
+{
+	displayName="[34th] JFO Woodland 'Yandere' (Custom Visor)";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\jfo_helmet_woodland.paa",
+		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_jfo_visor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
+		player="yandere";
+		helmet="jfo";
+		camo="woodland";
+		visor="custom";
+	};
+};
+
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
 	displayName="[34th] M52 Combat Armour 'Yandere' Woodland";

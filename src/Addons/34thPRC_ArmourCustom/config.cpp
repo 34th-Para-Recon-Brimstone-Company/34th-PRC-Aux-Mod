@@ -89,6 +89,7 @@ class CfgWeapons
 	class 34thPRC_ArmourStandard_ODST2_M52_CQB_Urban; //34thPRC_ArmourStandard
 
 	class 34thPRC_ArmourStandard_EOD_Helmet_Urban;
+	class 34thPRC_ArmourStandard_JFO_Helmet_Urban;
 
 	//includes
 	#include "data\config_weapons.hpp"
