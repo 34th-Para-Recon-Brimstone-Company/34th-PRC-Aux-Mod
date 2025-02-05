@@ -8,3 +8,6 @@
 *.hpp text eol=crlf autocrlf=false
 *.cpp text eol=crlf autocrlf=false
 *.rvmat text eol=crlf autocrlf=false
+*.rtm filter=lfs diff=lfs merge=lfs -text
+*.oog filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
