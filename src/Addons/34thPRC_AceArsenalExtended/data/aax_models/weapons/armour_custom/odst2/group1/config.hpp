@@ -1,5 +1,5 @@
-//Custom M52 Group 1: Yandere, Cappy, Ambrose
-class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
+//Custom M52 Group 1: Yandere, Cappy, Ambrose, Vasya
+class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban : 34thPRC_ArmourStandard_ODST2_M52_Urban
 {
 	label = "[34thPRC] ODST Custom Armors";
 	author = "34th PRC Modding Team, Over Yandere";
@@ -8,7 +8,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"yandere", "cappy", "ambrose"};
+		values[]={"yandere", "cappy", "ambrose", "vasya"};
 		class yandere
 		{
 			label = "Yandere";
@@ -21,73 +21,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 		{
 			label = "Ambrose";
 		};
-	};
-	class camo
-	{
-		alwaysSelectable = 1;
-		changeingame = 0;
-		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-		class urban
+		class vasya
 		{
-			label = "Urban";
-		};
-		class arctic
-		{
-			label = "Arctic";
-		};
-		class arid
-		{
-			label = "Arid";
-		};
-		class tropic
-		{
-			label = "Tropic";
-		};
-		class woodland
-		{
-			label = "Woodland";
-		};
-	};
-	class variant
-	{
-		alwaysSelectable = 1;
-		changeingame = 0;
-		values[] = {"a", "b", "c", "cqb", "marksman", "medic_a", "medic_b", "medic_c"};
-		class a
-		{
-			label = "M52-A";
-		};
-		class b
-		{
-			label = "M52-B";
-		};
-		class c
-		{
-			label = "M52-C";
-		};
-		class cqb
-		{
-			label = "CQB";
-		};
-		class marksman
-		{
-			label = "Marksman";
-		};
-		class medic_a
-		{
-			label = "Medic-A";
-		};
-		class medic_b
-		{
-			label = "Medic-B";
-		};
-		class medic_c
-		{
-			label = "Medic-C";
+			label = "Vasya";
 		};
 	};
 };
-
 
 //Custom ODST Helmets Group 1: Yandere, Ambrose, Shewolf, Vasya
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
@@ -168,7 +107,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 };
 
 //Custom ODST Specialist Helmets Helmets Group 1: Cappy, Yandere, Luther
-class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
+class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban : 34thPRC_ArmourStandard_EOD_Helmet_Urban
 {
 	label="[34thPRC] Specialist Helmets Custom";
 	author="34th PRC Modding Team, Over Yandere";
@@ -190,56 +129,6 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		class luther
 		{
 			label="Luther";
-		};
-	};
-	class helmet
-	{
-		alwaysSelectable=1;
-		changeingame=0;
-		label="Helmet Type";
-		values[]={"eod","gungnir","jfo","recon"};
-		class eod
-		{
-			label="EOD";
-		};
-		class gungnir
-		{
-			label="Gungnir";
-		};
-		class jfo
-		{
-			label="JFO";
-		};
-		class recon
-		{
-			label="Recon";
-		};
-	};
-	class camo
-	{
-		alwaysSelectable=1;
-		changeingame=0;
-		label="Camo Variant";
-		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-		class urban
-		{
-			label="Urban";
-		};
-		class arctic
-		{
-			label="Arctic";
-		};
-		class arid
-		{
-			label="Arid";
-		};
-		class tropic
-		{
-			label="Tropic";
-		};
-		class woodland
-		{
-			label="Woodland";
 		};
 	};
 	class visor

@@ -364,6 +364,92 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Arctic : 34thPRC_ArmourStandard_O
 		variant="medic_c";
 	};
 };
+class 34thPRC_ArmourStandard_ODST2_M52_D_Arctic : 34thPRC_ArmourStandard_ODST2_M52_D_Urban
+{
+	displayName="[34th] M52-D Combat Armour Arctic";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Right
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Right
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Right
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Chest
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders.paa", //ODST_Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders.paa", //ODST_Right
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="d";
+	};
+};
+class 34thPRC_ArmourStandard_ODST2_M52_D_Medic_Arctic : 34thPRC_ArmourStandard_ODST2_M52_D_Urban
+{
+	displayName="[34th] M52-D Combat Armour (Corpsman) Arctic";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Right
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Right
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest_Medic.paa", //ODST_Chest
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders_Medic.paa", //ODST_Left
+		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders_Medic.paa", //ODST_Right
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+		"MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="medic_d";
+	};
+};
 class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Arctic : 34thPRC_ArmourStandard_ODST2_M52_Marksman_Urban
 {
 	displayName="[34th] M52 Combat Armour (Marksman) Arctic";
