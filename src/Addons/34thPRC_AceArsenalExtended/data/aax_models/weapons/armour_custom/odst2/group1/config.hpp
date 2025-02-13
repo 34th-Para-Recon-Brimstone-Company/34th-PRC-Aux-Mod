@@ -1,4 +1,4 @@
-//Custom M52 Group 1: Yandere, Cappy, Ambrose
+//Custom M52 Group 1: Yandere, Cappy, Ambrose, Vasya
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
 	label = "[34thPRC] ODST Custom Armors";
@@ -8,7 +8,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"yandere", "cappy", "ambrose"};
+		values[]={"yandere", "cappy", "ambrose", "vasya"};
 		class yandere
 		{
 			label = "Yandere";
@@ -20,6 +20,10 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 		class ambrose
 		{
 			label = "Ambrose";
+		};
+		class vasya
+		{
+			label = "Vasya";
 		};
 	};
 	class camo
@@ -52,7 +56,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"a", "b", "c", "cqb", "marksman", "medic_a", "medic_b", "medic_c"};
+		values[] = {"a", "b", "c", "d", "medic_a", "medic_b", "medic_c", "medic_d", "cqb", "marksman"};
 		class a
 		{
 			label = "M52-A";
@@ -65,13 +69,9 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 		{
 			label = "M52-C";
 		};
-		class cqb
+		class d
 		{
-			label = "CQB";
-		};
-		class marksman
-		{
-			label = "Marksman";
+			label = "M52-D";
 		};
 		class medic_a
 		{
@@ -85,9 +85,20 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 		{
 			label = "Medic-C";
 		};
+		class medic_d
+		{
+			label = "Medic-D";
+		};
+		class cqb
+		{
+			label = "CQB";
+		};
+		class marksman
+		{
+			label = "Marksman";
+		};
 	};
 };
-
 
 //Custom ODST Helmets Group 1: Yandere, Ambrose, Shewolf, Vasya
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
@@ -191,8 +202,7 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		{
 			label="Luther";
 		};
-	};
-	class helmet
+	};class helmet
 	{
 		alwaysSelectable=1;
 		changeingame=0;

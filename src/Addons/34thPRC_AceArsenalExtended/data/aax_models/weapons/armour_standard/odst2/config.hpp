@@ -34,7 +34,7 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"a", "b", "c", "cqb", "marksman", "medic_a", "medic_b", "medic_c"};
+		values[] = {"a", "b", "c", "d", "medic_a", "medic_b", "medic_c", "medic_d", "cqb", "marksman"};
 		class a
 		{
 			label = "M52-A";
@@ -47,13 +47,9 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 		{
 			label = "M52-C";
 		};
-		class cqb
+		class d
 		{
-			label = "CQB";
-		};
-		class marksman
-		{
-			label = "Marksman";
+			label = "M52-D";
 		};
 		class medic_a
 		{
@@ -66,6 +62,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 		class medic_c
 		{
 			label = "Medic-C";
+		};
+		class medic_d
+		{
+			label = "Medic-D";
+		};
+		class cqb
+		{
+			label = "CQB";
+		};
+		class marksman
+		{
+			label = "Marksman";
 		};
 	};
 };
