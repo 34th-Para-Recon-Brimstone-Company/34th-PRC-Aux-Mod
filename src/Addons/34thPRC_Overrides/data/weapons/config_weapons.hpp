@@ -10,3 +10,4 @@
 #include "srs99rm\config_weapons.hpp"
 #include "srs99am\config_weapons.hpp"
 #include "saabr96\config_weapons.hpp"
+#include "etilka\config_weapons.hpp"
