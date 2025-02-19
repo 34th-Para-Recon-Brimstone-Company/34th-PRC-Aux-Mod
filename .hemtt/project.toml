@@ -1,0 +1,16 @@
+name = "34th PRC Aux Mod"
+author = "34th PRC Aux Mod Team"
+prefix = "34thPRC"
+mainprefix = "z"
+
+[version]
+major = 0
+minor = 23
+patch = 0
+
+[files]
+include = [
+    "34thPRC_logo.paa",
+    "changelog.md",
+    "mod.cpp",
+]
