@@ -15,7 +15,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light: MA_Marine_Light_BDU
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
+	//Leave hiddenSelectionsMaterials[] turned off until issue with rvmats can be found.
+	/*hiddenSelectionsMaterials[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
@@ -27,7 +28,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light: MA_Marine_Light_BDU
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
+	};*/
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium: MA_Marine_Medium_BDU
 {
@@ -46,7 +47,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium: MA_Marine_Medium_BDU
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
+	/*hiddenSelectionsMaterials[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
@@ -58,7 +59,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium: MA_Marine_Medium_BDU
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
+	};*/
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
 {
@@ -77,7 +78,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
+	/*hiddenSelectionsMaterials[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
@@ -89,7 +90,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
+	};*/
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder : MA_Marine_NS_BDU
 {
@@ -139,7 +140,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar: MA_Marine_Li
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
+	/*hiddenSelectionsMaterials[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
@@ -151,7 +152,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar: MA_Marine_Li
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
+	};*/
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar: MA_Marine_Medium_BDU_NC
 {
@@ -170,7 +171,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar: MA_Marine_M
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
+	/*hiddenSelectionsMaterials[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
@@ -182,7 +183,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar: MA_Marine_M
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
+	};*/
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar: MA_Marine_Heavy_BDU_NC
 {
@@ -201,7 +202,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar: MA_Marine_He
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
+	/*hiddenSelectionsMaterials[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
@@ -213,9 +214,9 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar: MA_Marine_He
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
+	};*/
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Light: MA_Marine_Light_BDU
+class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Light: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light
 {
 	scope=1;
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light";
@@ -232,21 +233,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Light: MA_Marine_Light_
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
-	{
-		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperCollar.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperPadding.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\straps.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\upperArmor.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\lowerArmor.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium: MA_Marine_Medium_BDU
+class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium
 {
 	scope=1;
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium";
@@ -263,21 +251,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium: MA_Marine_Mediu
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
-	{
-		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperCollar.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperPadding.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\straps.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\upperArmor.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\lowerArmor.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy: MA_Marine_Heavy_BDU
+class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy
 {
 	scope=1;
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy";
@@ -293,19 +268,6 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy: MA_Marine_Heavy_
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
-	};
-	hiddenSelectionsMaterials[]=
-	{
-		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperCollar.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperPadding.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\straps.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\upperArmor.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\lowerArmor.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
-		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NoShoulder : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
