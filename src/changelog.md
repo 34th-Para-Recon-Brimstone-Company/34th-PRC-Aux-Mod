@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - Old ODST Gear
 
-# 0.26.0
+## 0.26.0
 ### Updated
 - OPTRE Pelican: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
 - OPTRE SOCOM Pelican: radar enhanced, detectability reduced from 2x to 1x, sensor panel resolutions adjusted
@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - OPTRE Gladius + variants: inheritance changed, radar resolution adjusted
 - UNSC Foundries Heavy Pelican: radar enhanced, detectability increased to 1.2x, sensor panel resolutions adjusted
 
-# 0.25.1
+## 0.25.1
 ### Updated
 - Balance pass on the Railgun's ammo
 ### Fix
