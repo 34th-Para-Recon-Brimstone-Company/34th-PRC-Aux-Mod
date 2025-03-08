@@ -1,6 +1,7 @@
+#include "script_version.hpp"
 class CfgPatches
 {
-	class main
+	class 34thPRC_Main
 	{
 		name = "main";
 		author = "34th PRC Modding Team";
@@ -18,6 +19,16 @@ class CfgPatches
 			"34thPRC_WeaponsStandard",
 			"34thPRC_Functions",
 		};
-		version = "0.26.0"; //Update to match changelog version on release
+		VERSION_CONFIG;
+	};
+};
+
+class CfgSettings {
+	class CBA {
+		class Versioning { // https://github.com/CBATeam/CBA_A3/wiki/Versioning-System
+			class 34thPRC_Main {
+				main_addon = "34thPRC_Main";
+			};
+		}; think this is right)
 	};
 };

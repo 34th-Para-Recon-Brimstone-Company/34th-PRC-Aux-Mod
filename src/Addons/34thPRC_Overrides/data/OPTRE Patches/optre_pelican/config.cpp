@@ -183,7 +183,7 @@ class CfgVehicles
 			};
 			class VehicleSystemsDisplayManagerComponentLeft: DefaultVehicleSystemsDisplayManagerLeft
 			{
-				class Components: components
+				class Components: Components
 				{
 					class VehiclePrimaryGunnerDisplay
 					{
@@ -206,7 +206,7 @@ class CfgVehicles
 			class VehicleSystemsDisplayManagerComponentRight: DefaultVehicleSystemsDisplayManagerRight
 			{
 				defaultDisplay="SensorDisplay";
-				class Components: components
+				class Components: Components
 				{
 					class VehiclePrimaryGunnerDisplay
 					{
@@ -235,7 +235,7 @@ class CfgVehicles
 				{
 					class VehicleSystemsDisplayManagerComponentLeft: DefaultVehicleSystemsDisplayManagerLeft
 					{
-						class Components: components
+						class Components: Components
 						{
 							class VehiclePrimaryGunnerDisplay
 							{
@@ -258,7 +258,7 @@ class CfgVehicles
 					class VehicleSystemsDisplayManagerComponentRight: DefaultVehicleSystemsDisplayManagerRight
 					{
 						defaultDisplay="SensorDisplay";
-						class Components: components
+						class Components: Components
 						{
 							class VehiclePrimaryGunnerDisplay
 							{
