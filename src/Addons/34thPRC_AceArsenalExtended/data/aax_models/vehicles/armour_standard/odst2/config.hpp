@@ -1,7 +1,7 @@
 //New Rucksacks
 class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban
 {
-	label = "[34th] M52 Rucksack"
+	label = "[34th] M52 Rucksack";
 	author = "34th PRC Modding Team, Over Yandere";
 	options[] = {"camo", "variant"};
 	class camo
