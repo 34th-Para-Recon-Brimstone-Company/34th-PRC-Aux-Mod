@@ -12,6 +12,7 @@ jobs:
     - run: git config --global core.autocrlf false
     - run: git config --global core.eol crlf
     - uses: actions/checkout@v4.2.2
+    - run: mkdir .hemttout; mkdir .hemttout/build # TODO: Remove this later
     - uses: kasperhesthaven/setup-editorconfig-checker@v1.2.0
     # - uses: zbeekman/EditorConfig-Action@v1.1.1 # broken
     # - uses: wow-rp-addons/actions-editorconfig-check@v1.0.1
