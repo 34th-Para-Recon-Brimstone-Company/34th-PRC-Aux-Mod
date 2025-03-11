@@ -90,6 +90,13 @@ class CfgVehicles
 	};
 	class OPTRE_falcon_base: Heli_Light_01_base_F
 	{
+		class EventHandlers: EventHandlers
+		{
+			class unsung
+			{
+				init="_this spawn uns_air_fnc_addCustomMusic";
+			};
+		};
 		class Components: Components
 		{
 			class SensorsManagerComponent
