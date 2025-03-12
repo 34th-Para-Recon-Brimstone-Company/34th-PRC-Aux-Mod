@@ -12,7 +12,7 @@ class CfgPatches
 		units[]={};
 	};
 };
-
+class DefaultEventHandlers;
 class SensorTemplatePassiveRadar;
 class SensorTemplateAntiRadiation;
 class SensorTemplateActiveRadar;

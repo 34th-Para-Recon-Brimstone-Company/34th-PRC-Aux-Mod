@@ -1,11 +1,14 @@
 name: "Release Reminder"
 on:
   pull_request_target:
-    types: [opened, labeled]
+    types: [opened, labeled, synchronize]
+    branches:
+      - '*'
+    labels:
+      - release
 
 jobs:
   release-reminder:
-    if: ${{ github.event.pull_request.labels.*.name == 'release' }}
     permissions:
       contents: read
       pull-requests: write
@@ -13,5 +16,5 @@ jobs:
     steps:
     - uses: mskelton/changelog-reminder-action@v3.0.0
       with:
-        changelogRegex: "changelog.md"
-        message: "Did you bump the verion in the main PBO?"
+        changelogRegex: "src/changelog.md"
+        message: "Did you bump the version number in the main PBO?"

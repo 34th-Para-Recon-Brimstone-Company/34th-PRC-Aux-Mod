@@ -14,8 +14,18 @@ class CfgFunctions
 	{
 		class functions
 		{
-			file="\34thPRC_Functions\MusicRadio\functions\fn_addCustomMusic.sqf";
+			file="\34thPRC_Functions\MusicRadio\functions";
 			class addCustomMusic
+			{
+			};
+		};
+	};
+	class uns_mbox
+	{
+		class functions
+		{
+			file="\34thPRC_Functions\MusicRadio\functions";
+			class remoteSay3D
 			{
 			};
 		};
