@@ -6,9 +6,9 @@ if (-not $CI) {
 	# get user to edit changelog
 	Write-Host "Please edit the changelog.md file and save your changes."
 	if ($IsWindows -or [System.Environment]::OSVersion.Platform -eq "Win32NT") {
-		Start-Process "src/changelog.md"
+		Start-Process "changelog.md"
 	} elseif ($IsLinux -or $IsMacOS -or [System.Environment]::OSVersion.Platform -eq "Unix") {
-		Start-Process "xdg-open" "src/changelog.md"
+		Start-Process "xdg-open" "changelog.md"
 	} else {
 		Write-Host "Unsupported OS. Please manually open changelog.md in your preferred text editor."
 	}
@@ -16,7 +16,7 @@ if (-not $CI) {
 }
 
 # extract new version number from changelog.md
-$changelogContent = Get-Content "src/changelog.md"
+$changelogContent = Get-Content "changelog.md"
 
 # Check if the Unreleased section is empty or contains only blank lines
 $unreleasedSection = ($changelogContent -join "`n") -match "(?s)(?<=## Unreleased`n).*?(?=## \d+\.\d+\.\d+|$)"
@@ -26,7 +26,6 @@ if ($unreleasedSectionContent -and $unreleasedSectionContent -notmatch "^\s*$") 
 	Write-Host "The '## Unreleased' section in changelog.md must be empty or contain only blank lines. Please move the changes to a new version section."
 	exit 1
 }
-
 $newVersionLine = $changelogContent | Select-String -Pattern "^## \d+\.\d+\.\d+" | Select-Object -First 1
 
 if ($newVersionLine -eq $null) {
@@ -43,7 +42,7 @@ $minor = $versionParts[1]
 $patch = $versionParts[2]
 
 # update version in script_version.hpp
-$scriptVersionPath = "src/Addons/34thPRC_Main/script_version.hpp"
+$scriptVersionPath = "addons/main/script_version.hpp"
 $scriptVersionContent = Get-Content $scriptVersionPath
 $scriptVersionContent = $scriptVersionContent -replace "(?<=#define MAJOR )\d+", $major
 $scriptVersionContent = $scriptVersionContent -replace "(?<=#define MINOR )\d+", $minor

@@ -1,0 +1,33 @@
+name = "34th PRC Aux Mod"
+author = "34th PRC Aux Mod Team"
+prefix = "34thprc"
+mainprefix = "z"
+
+[version]
+path = "addons/main/script_version.hpp"
+
+[files]
+include = [
+	"34thPRC_logo.paa",
+	"changelog.md",
+	"mod.cpp",
+]
+
+[hemtt.release]
+folder = "34th PRC Aux Mod"
+
+[hemtt.launch.default]
+presets = [
+	"main", # .html presets from .hemtt/presets/
+]
+parameters = [
+	"-skipIntro",			# These parameters are passed to the Arma 3 executable
+	"-noSplash",			# They do not need to be added to your list
+	"-showScriptErrors",	# You can add additional parameters here
+	"-debug",
+	"-filePatching",
+]
+executable = "arma3_x64" # Default: "arma3_x64"
+file_patching = false # Default: true
+binarize = true # Default: false
+rapify = false # Default: true
