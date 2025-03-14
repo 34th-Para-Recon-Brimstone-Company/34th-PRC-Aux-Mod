@@ -1,0 +1,41 @@
+name: Prep Release
+
+on:
+  pull_request_target:
+    types: [opened, labeled, synchronize, reopened, unlabeled]
+    branches:
+      - '*'
+
+jobs:
+  prep-release:
+    runs-on: windows-latest
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+    - name: Check for release label
+      id: check_label
+      uses: egmacke/action-check-label@v3
+      with:
+        label: release
+        fail_on_error: false
+
+    - name: Checkout repository
+      if: steps.check_label.outputs.pass == 'true'
+      uses: actions/checkout@v4.2.2
+      with:
+        persist-credentials: false
+
+    - name: Run prepRelease.ps1
+      if: steps.check_label.outputs.pass == 'true'
+      run: pwsh ./prepRelease.ps1 -CI
+      continue-on-error: false
+
+    - name: Commit and push changes
+      if: steps.check_label.outputs.pass == 'true' && success()
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automated prep release"
+        branch: ${{ github.head_ref }}
+        token: ${{ secrets.GITHUB_TOKEN }}
