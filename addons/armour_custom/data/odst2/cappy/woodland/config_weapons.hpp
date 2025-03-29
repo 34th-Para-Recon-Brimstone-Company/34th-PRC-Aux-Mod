@@ -4,8 +4,8 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Woodland : 34thPRC_ArmourCustom_Capp
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\eod_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\odst2\cappy\visor\eod_helmet_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\eod_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\visor\eod_helmet_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -23,15 +23,15 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Woodland : 34thPRC_ArmourCustom_ODST2
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -67,15 +67,15 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_B_Woodland : 34thPRC_ArmourCustom_ODS
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -111,15 +111,15 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_C_Woodland : 34thPRC_ArmourCustom_ODS
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -155,15 +155,15 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Woodland : 34thPRC_ArmourCus
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -199,15 +199,15 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Woodland : 34thPRC_ArmourCustom_O
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\woodland\odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\cappy\woodland\odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch

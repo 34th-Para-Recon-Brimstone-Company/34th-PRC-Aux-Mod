@@ -4,8 +4,8 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Urban : 34thPRC_Armour
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\vasya_odst_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\odst2\vasya\visor\vasya_odst_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\vasya_odst_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\visor\vasya_odst_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -22,7 +22,7 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Urban_dp : 34thPRC_Arm
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\vasya_odst_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\vasya_odst_helmet_urban.paa",
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
 	};
 	class ItemInfo:ItemInfo
@@ -41,15 +41,15 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_M52_D_Urban : 34thPRC_ArmourStandard_ODST
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_vest_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_vest_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_vest_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_shoulders_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_shoulders_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_vest_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_vest_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_vest_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_shoulders_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\vasya\urban\Vasya_odst_shoulders_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch

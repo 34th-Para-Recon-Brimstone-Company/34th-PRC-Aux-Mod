@@ -4,9 +4,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban : 34thPRC_ArmourStandard_Ma
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -26,12 +26,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece : 34thPRC_ArmourSt
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -49,12 +49,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece_Blue : 34thPRC_Arm
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -72,12 +72,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece_Orange : 34thPRC_A
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -95,12 +95,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece_Red : 34thPRC_Armo
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -118,12 +118,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece_Purple : 34thPRC_A
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -141,12 +141,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses : 34thPRC_Armo
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -164,12 +164,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses_Blue : 34thPRC
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -187,12 +187,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses_Green : 34thPR
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -210,12 +210,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses_Purple : 34thP
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -233,12 +233,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses_Red : 34thPRC_
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -257,9 +257,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic : 34thPRC_ArmourStand
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -279,12 +279,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece : 34thPRC_Ar
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -302,12 +302,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece_Blue : 34thP
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -325,12 +325,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece_Orange : 34t
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -348,12 +348,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece_Red : 34thPR
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -371,12 +371,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece_Purple : 34t
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -394,12 +394,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses : 34thPR
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -417,12 +417,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses_Blue : 3
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -440,12 +440,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses_Green : 
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -463,12 +463,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses_Purple :
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -486,12 +486,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses_Red : 34
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_helmet_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{

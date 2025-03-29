@@ -4,8 +4,8 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Arid : 34thPRC_Armou
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\shewolf\arid\shewolf_odst_helmet_arid.paa",
-		"34thPRC_ArmourCustom\data\odst2\shewolf\visor\shewolf_odst_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\shewolf\arid\shewolf_odst_helmet_arid.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\shewolf\visor\shewolf_odst_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -22,7 +22,7 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Arid_dp : 34thPRC_Ar
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\shewolf\arid\shewolf_odst_helmet_arid.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\shewolf\arid\shewolf_odst_helmet_arid.paa",
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
 	};
 	class ItemInfo:ItemInfo

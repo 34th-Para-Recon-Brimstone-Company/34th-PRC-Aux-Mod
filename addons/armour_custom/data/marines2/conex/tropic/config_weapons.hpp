@@ -4,9 +4,9 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic : 34thPRC_ArmourStandard_
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -26,12 +26,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_EyePiece : 34thPRC_Armour
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -49,12 +49,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_EyePiece_Blue : 34thPRC_A
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -72,12 +72,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_EyePiece_Orange : 34thPRC
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -95,12 +95,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_EyePiece_Red : 34thPRC_Ar
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -118,12 +118,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_EyePiece_Purple : 34thPRC
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -141,12 +141,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_VisorGlasses : 34thPRC_Ar
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -164,12 +164,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_VisorGlasses_Blue : 34thP
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -187,12 +187,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_VisorGlasses_Green : 34th
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -210,12 +210,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_VisorGlasses_Purple : 34t
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -233,12 +233,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Tropic_VisorGlasses_Red : 34thPR
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\conex\tropic\trooper_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{

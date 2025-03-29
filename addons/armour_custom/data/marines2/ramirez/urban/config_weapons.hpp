@@ -4,9 +4,9 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban : 34thPRC_ArmourStandard
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -26,12 +26,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece : 34thPRC_Armou
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -49,12 +49,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Blue : 34thPRC_
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -72,12 +72,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Orange : 34thPR
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -95,12 +95,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Red : 34thPRC_A
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -118,12 +118,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Purple : 34thPR
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -141,12 +141,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses : 34thPRC_A
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -164,12 +164,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Blue : 34th
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -187,12 +187,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Green : 34t
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -210,12 +210,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Purple : 34
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -233,12 +233,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Red : 34thP
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\urban\trooper_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{

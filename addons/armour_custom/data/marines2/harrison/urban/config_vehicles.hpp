@@ -4,16 +4,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Light : 34thPRC_Armou
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Light";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Medium : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium
@@ -22,16 +22,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Medium : 34thPRC_Armo
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Medium";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Heavy : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy
@@ -40,16 +40,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Heavy : 34thPRC_Armou
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Heavy";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_NoShoulders : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
@@ -58,16 +58,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_NoShoulders : 34thPRC
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_NoShoulders";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Light_NoCollar : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar
@@ -76,16 +76,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Light_NoCollar : 34th
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Light_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Medium_NoCollar : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar
@@ -94,16 +94,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Medium_NoCollar : 34t
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Medium_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Heavy_NoCollar : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar
@@ -112,16 +112,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Heavy_NoCollar : 34th
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Heavy_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Light : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Light
@@ -130,16 +130,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Light : 34thPRC_
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Light";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Medium : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium
@@ -148,16 +148,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Medium : 34thPRC
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Medium";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Heavy : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy
@@ -166,16 +166,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Heavy : 34thPRC_
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Heavy";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_NoShoulders : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NoShoulder
@@ -184,16 +184,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_NoShoulders : 34
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_NoShoulders";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Light_NoCollar : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Light_NoCollar
@@ -202,16 +202,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Light_NoCollar :
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Light_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Medium_NoCollar : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium_NoCollar
@@ -220,16 +220,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Medium_NoCollar 
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Medium_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Heavy_NoCollar : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy_NoCollar
@@ -238,15 +238,15 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Heavy_NoCollar :
 	UniformClass="34thPRC_ArmourCustom_Marines2_Harrison_Trooper_Urban_Blue_Heavy_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_upperarmor_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerArmor.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\urban\harrison_marine_shoulders.paa"
 	};
 };

@@ -4,8 +4,8 @@ class 34thPRC_ArmourCustom_ODST2_Luther_JFO_Custom_Arctic : 34thPRC_ArmourCustom
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\luther\arctic\jfo_helmet_arctic.paa",
-		"34thPRC_ArmourCustom\data\odst2\luther\jfo_visor_custom.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\luther\arctic\jfo_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\luther\jfo_visor_custom.paa"
 	};
 	class XtdGearInfo
 	{
