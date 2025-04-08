@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Updated
+- Filepaths for scripts updated to Hemtt requirements
+- armour_standard pbo updated all internal file paths
+- CBRN for Marines / ODSTs now created through substance painter and updated to proper colors.
+- EOD Halo Reach variant for Marines / ODSTs now created through substance painter and updated to proper colors.
 
 ## 0.30.1
 ### Re-upload
